@@ -1,4 +1,4 @@
-To play the game, the user can take one of two approaches: via the serial monitor or via the interactive inputs. Please note that the former requires access to a computer keyboard, while the latter only necessitates the board itself.
+To play the game of Arduino battleship, the user can take one of two approaches: via the serial monitor or via the interactive inputs. Please note that the former requires access to a computer keyboard, while the latter only necessitates the board itself.
 
 
 ——————————
