@@ -25,3 +25,9 @@ Version 2: interactive inputs
 6. If your guess misses, then the intimidating Star Wars Imperial March song will play. The serial monitor will also reflect your miss
 7. Once you have sunk a ship (with 3 correct guesses), the full version of the celebratory Star Wars Cantina song will play, and all 8 red LED lights will flash back & forth (Knight Rider style) to signal your win. The serial monitor will also reflect your kill
 8. Because the game has ended, the Star Wars theme song will play, and the blue LED light will flash. You are then given a short period of time to decide whether you would like to play another round of the game. If you would like to play again, then press the button on the breadboard, and a new game of battleship will commence. If you are finished, then no further action is needed, and the game will terminate on its own
+
+
+
+————————————————————
+
+*** Credit for all songs utilized in code (thank you, Rob!): [robsoncouto](https://github.com/robsoncouto/arduino-songs)
